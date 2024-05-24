@@ -5,13 +5,13 @@ This application is for registering a user, login, logout and getting the data f
 This is s Backend project built on Node.js running on the port 5000. 
 For storing the data MongDB is used.
 
-POST request 
 
-/register - for registering the users.
+POST requests
+  1. /register - for registering the users.
+  2. /login -  to log in to the user.
+  3. /me - to update the data of the user.
 
-/login -  to log in to the user.
 
-/me - to update the data of the user.
 
 
 GET request 
