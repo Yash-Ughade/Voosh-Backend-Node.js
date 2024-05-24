@@ -1,9 +1,12 @@
 # Voosh-Backend-Node.js
 
-## Steps to run
+Summery 
+This is s Backend project built on Node.js. For storing the data MongDB is used. This app runs on port 5000 
 
-# 1. Clone this repo
+# Steps to run
 
-# 2. run npm install
+#@ 1. Clone this repo
 
-# 3. setup the .env file (change the name to .env form .env.example)
+## 2. run npm install
+
+## 3. use the .env.example file to store your environment variables (change the name to .env form .env.example)
