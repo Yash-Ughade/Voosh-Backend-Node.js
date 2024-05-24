@@ -6,9 +6,13 @@ This is s Backend project built on Node.js running on the port 5000.
 For storing the data MongDB is used.
 
 POST request 
+
 /register - for registering the users.
+
 /login -  to log in to the user.
+
 /me - to update the data of the user.
+
 
 GET request 
 /auth/google - to log in using Google.
