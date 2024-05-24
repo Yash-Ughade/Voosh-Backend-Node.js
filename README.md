@@ -12,14 +12,12 @@ POST requests
   3. /me - to update the data of the user.
 
 
-
-
 GET request 
-/auth/google - to log in using Google.
-/logout - for logging out the user.
-/me -  to get the users.
-/profile - get the users that have kept their profile as public.
-/admin/users - to get the data on the user through admin.
+  1. /auth/google - to log in using Google.
+  2. /logout - for logging out the user.
+  3./me -  to get the users.
+  4./profile - get the users that have kept their profile public.
+  5./admin/users - to get the data on the user through admin.
 
 ## Steps to run
 
