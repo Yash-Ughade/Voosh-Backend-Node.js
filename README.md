@@ -15,9 +15,9 @@ POST requests
 GET request 
   1. /auth/google - to log in using Google.
   2. /logout - for logging out the user.
-  3./me -  to get the users.
-  4./profile - get the users that have kept their profile public.
-  5./admin/users - to get the data on the user through admin.
+  3. /me -  to get the users.
+  4. /profile - get the users that have kept their profile public.
+  5. /admin/users - to get the data on the user through admin.
 
 ## Steps to run
 
